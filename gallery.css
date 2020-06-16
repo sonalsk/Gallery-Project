@@ -1,0 +1,17 @@
+body{
+  padding-top: 100px;
+  background-color: #e9e2e6;
+}
+
+.jumbotron{
+  color: #2c3e50;
+  background: #ecf0f1;
+}
+
+.row{
+  padding-bottom: 20px;
+}
+
+.navbar{
+  background-color: rgba(242, 217, 230);
+}
